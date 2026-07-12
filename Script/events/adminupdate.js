@@ -25,7 +25,8 @@ try {
         case "log:thread-admins": {  
             if (logMessageData.ADMIN_EVENT == "add_admin") {  
                 dataThread.adminIDs.push({ id: logMessageData.TARGET_ID })  
-                if (global.configModule[this.config.name].sendNoti) api.sendMessage(`»» NOTICE «« Update user ${logMessageData.TARGET_ID}  Admin Power Activate! 🧙‍♂️🔮\n অফিসিয়ালি এখন তুই VIP 😎🎩`, threadID, async (error, info) => {  
+                if (global.configModule[this.config.name].sendNoti) api.sendMessage(`»» NOTICE «« Update user ${logMessageData.TARGET_ID}  Admin Power Activate!
+                🧙‍♂️🔮\n অফিসিয়ালি এখন থেকে আপনি VIP 😎🎩`, threadID, async (error, info) => {  
                     if (global.configModule[this.config.name].autoUnsend) {  
                         await new Promise(resolve => setTimeout(resolve, global.configModule[this.config.name].timeToUnsend * 1000));  
                         return api.unsendMessage(info.messageID);  
@@ -34,7 +35,7 @@ try {
             }  
             else if (logMessageData.ADMIN_EVENT == "remove_admin") {  
                 dataThread.adminIDs = dataThread.adminIDs.filter(item => item.id != logMessageData.TARGET_ID);  
-                if (global.configModule[this.config.name].sendNoti) api.sendMessage(`»» NOTICE «« Update user ${logMessageData.TARGET_ID} বেশি চুল পাকনামি করার কারণে🥴 তোকে এডমিন থেকে\n  লাথি মেরে  বের করে দেওয়া হল 😀😂`, threadID, async (error, info) => {  
+                if (global.configModule[this.config.name].sendNoti) api.sendMessage(`»» NOTICE «« Update user ${logMessageData.TARGET_ID} বেশি চুল পাকনামি করার কারণে🥴 আপনাকে এডমিন থেকে\n  লাথি মেরে  বের করে দেওয়া হল 😀😂`, threadID, async (error, info) => {  
                     if (global.configModule[this.config.name].autoUnsend) {  
                         await new Promise(resolve => setTimeout(resolve, global.configModule[this.config.name].timeToUnsend * 1000));  
                         return api.unsendMessage(info.messageID);  
