@@ -31,7 +31,7 @@ module.exports.handleEvent = function({ api, event }) {
  "বস এখন ব্যস্ত আছে , কি বলবি আমাকে বল",
  "মেনশন না দিয়া বস বল বস 🥵💋",
  "কিরে তোর এতো সাহস আমার বসের নাম ধরিস😾🫵",
- "এতো মেনশন না দিয়া তোর গার্লফ্রেন্ডটারে দিয়া দে😹🐸",
+ "এতো মেনশন না দিয়া মুতি আই হুতি যা😹🐸",
  "মেনশন দিয়ে লাভ নাই বস এখন বিজি আছেন😗😘"
  ];
  return api.sendMessage(replies[Math.floor(Math.random() * replies.length)], event.threadID, event.messageID);
