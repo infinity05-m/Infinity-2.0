@@ -79,7 +79,7 @@
     "qr-image": "^3.2.0",
     "qrcode": "^1.5.3",
     "request": "^2.88.2",
-    "sahu-fca": "latest",
+    "sahu-fca": "11.0.1",
     "sanitize-html": "^2.12.1",
     "sequelize": "^6.21.4",
     "shaon-videos-downloader": "^1.0.1",
