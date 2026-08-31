@@ -12,12 +12,12 @@
   "PASSWORD": "alif2005",
   "OTPKEY": "",
   "BOTNAME": "Cyber Bot_Munu🫠",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
     "61578348665752",
-    "61589810691589",
+    "",
     ""
   ],
   "NDH": ["100044713412032"],
