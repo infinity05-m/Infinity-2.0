@@ -110,7 +110,7 @@ module.exports.run = async function ({ api, event, args }) {
  aesthetic: "addAesthetic",
  cat: "addCat",
  ff: "addFf",
- sex: "addSex",
+ sex: "https://www.pornhub.com/",
  football: "addFootball",
  girl: "addGirl",
  friend: "addFriend",
