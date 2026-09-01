@@ -19,12 +19,12 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : Md.Ahsan Habib Alif 
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : Alif 
+║ 👑 𝗡𝗮𝗺𝗲 : 𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 :  ᗩᒪIᖴ
 ║ 🎂 𝗔𝗴𝗲 : 20+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : Moon er Jamai🎀
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : Diploma in Engineering 
+║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : Diploma in Electrical Engineering 
 ║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : Babukha, Rangpur 
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
