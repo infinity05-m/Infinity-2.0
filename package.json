@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "♡⃝ ᴍᴜɴᴜ ᴄʜᴀᴛ ʙᴏᴛ ",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By 𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯",
   "main": "Main.js",
   "engines": {
     "node": "22.x" ,
@@ -9,7 +9,7 @@
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-    "start": "node Sahu.js",
+    "start": "node Munu.js",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
@@ -24,16 +24,16 @@
     "messenger",
     "javascript",
     "Alif",
-    "ullash",
+    "Moon",
     "𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯",
     "♡⃝ ᴍᴜɴᴜ ᴄʜᴀᴛ ʙᴏᴛ 𝕸𝖚𝖓𝖚 𝕮𝖍𝖆𝖙 𝕭𝖔𝖙"
   ],
   "author": "𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/shahadat-sahu/♡⃝ ᴍᴜɴᴜ ᴄʜᴀᴛ ʙᴏᴛ /issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/shahadat-sahu/♡⃝ ᴍᴜɴᴜ ᴄʜᴀᴛ ʙᴏᴛ /issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
