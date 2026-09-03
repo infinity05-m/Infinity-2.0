@@ -1,5 +1,5 @@
 {
-  "name": "♡⃝Cyber Munu",
+  "name": "Cyber Munu",
   "version": "2.0.0",
   "description": "Made By Shahdat sahu",
   "main": "Main.js",
@@ -26,14 +26,14 @@
     "Alif",
     "Moon",
     "𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯",
-    "♡⃝ Cyber Munu chat bot"
+    "Cyber Munu chat bot"
   ],
   "author": "𝓐𝓱𝓼𝓪𝓷 𝓗𝓪𝓫𝓲𝓫 𝓐𝓵𝓲𝓯",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/♡⃝Cyber Munu /issues"
+    "url": "https://github.com/shahadat-sahu/Cyber Munu /issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/♡⃝Cyber Munu /issues",
+  "homepage": "https://github.com/shahadat-sahu/Cyber Munu /issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
